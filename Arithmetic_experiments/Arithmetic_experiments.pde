@@ -1,8 +1,14 @@
-//Global Variables
-int total = 0;
-int counter = 0;
+void setup() {
+  size(1000, 1000);
+  
+  
+}
 
-println(total + 1);
-if (counter == 0) print("great!");
-counter += 6;
-println(counter);
+void draw() {
+}
+
+void keyPressed() {
+}
+
+void mouseClicked() {
+}
